@@ -20,3 +20,5 @@ const deepClone = (obj) => {
 const originalObj = { a: 1, b: { c: 2, d: [3, 4] } };
 const clonedObj = deepClone(originalObj);
 console.log(clonedObj);
+
+// new comment added
